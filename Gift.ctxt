@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Gift
+comment0.text=\r\n\ Gift\r\n\ \r\n\ @AMAL\ Chaouite\ &\ SANIJA\ Vlasanova\r\n\ @30.11.2019\r\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ To\ make\ sure\ that\ the\ methods\ is\ called\ when\ santa\ is\ in\ the\ first\ level\r\n
+comment2.params=
+comment2.target=void\ moveWithCloud()
+comment2.text=\r\nMmove\ the\ gift\ with\ the\ cloud\r\n
+comment3.params=
+comment3.target=void\ touchGift()
+comment3.text=\r\n\ If\ santa\ touch\ the\ gift\ he\ plays\ a\ sound\ and\ the\ gift\ disappears\r\n
+numComments=4

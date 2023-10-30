@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Cookies
+comment0.text=\r\n\ The\ cookies\ that\ santa\ should\ eat\r\n\ \r\n@AMAL\ Chaouite\ &\ SANIJA\ Vlasanova\r\n\ @30.11.2019\r\n
+comment1.params=
+comment1.target=void\ act()
+comment2.params=
+comment2.target=void\ touchCookies()
+comment2.text=\r\n\ Collision\ between\ cookies\ and\ santa,\ remove\ cookies\r\n
+comment3.params=
+comment3.target=boolean\ ifCookiesToken()
+comment3.text=\r\n\ Check\ if\ he\ took\ the\ cookies\r\n
+numComments=4

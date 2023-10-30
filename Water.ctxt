@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Water
+comment0.text=\r\n\ Bucket\ of\ water\r\n\ \r\n\ @AMAL\ Chaouite\ &\ SANIJA\ Vlasanova\r\n\ @30.11.2019\r\n
+comment1.params=
+comment1.target=void\ act()
+comment2.params=
+comment2.target=void\ moveWithCloud()
+comment2.text=\r\n\ Make\ the\ bucket\ of\ water\ move\ with\ the\ cloud\ on\ where\ she\ is\r\n
+comment3.params=
+comment3.target=void\ touchWater()
+comment3.text=\r\n\ Collision\ between\ Santa\ and\ Water.If\ collision\ \=\ True\ -->\ change\ the\ counter\ &&\ make\ a\ sound\ &&\ remove\ the\ star\r\n
+numComments=4

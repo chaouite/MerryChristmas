@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Dance
+comment0.text=\r\n\ The\ final\ world\ when\ the\ player\ wins\r\n\ \r\n\ @AMAL\ Chaouite\ &\ SANIJA\ Vlasanova\r\n\ @30.11.2019\r\n
+comment1.params=
+comment1.target=Dance()
+comment2.params=
+comment2.target=void\ started()
+comment2.text=\r\n\ Start\ the\ music\ in\ a\ looped\ way\ \r\n
+comment3.params=
+comment3.target=void\ stopped()
+comment3.text=\r\n\ Stop\ the\ music\r\n
+numComments=4

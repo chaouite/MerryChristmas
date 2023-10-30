@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Cotton
+comment0.text=\r\n\ Cotton\ to\ stop\ the\ bell\ from\ klinging\r\n\ \r\n\ @AMAL\ Chaouite\ &\ SANIJA\ Vlasanova\r\n\ @30.11.2019\r\n
+comment1.params=
+comment1.target=void\ act()
+comment2.params=
+comment2.target=void\ touchCotton()
+comment2.text=\r\n\ Collision\ between\ cotton\ and\ santa,\ remove\ cotton\r\n
+comment3.params=
+comment3.target=boolean\ ifCottenToken()
+comment3.text=\r\n\ Check\ if\ he\ took\ the\ cotton\r\n
+numComments=4

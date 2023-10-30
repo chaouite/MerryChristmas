@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Stary
+comment0.text=\r\n\ Stars\ to\ be\ collected\r\n\ \r\n\ @AMAL\ Chaouite\ &\ SANIJA\ Vlasanova\r\n\ @30.11.2019\r\n
+comment1.params=
+comment1.target=void\ act()
+comment2.params=
+comment2.target=void\ moveWithCloud2()
+comment2.text=\r\n\ Make\ the\ stars\ move\ with\ the\ cloud\ on\ where\ she\ is\r\n
+comment3.params=
+comment3.target=void\ moveWithCloud4()
+comment4.params=
+comment4.target=void\ moveWithCloud6()
+comment5.params=
+comment5.target=void\ touchStary()
+comment5.text=\r\n\ Collision\ between\ santa\ and\ the\ star.Collision\ \=\ True\ -->\ change\ the\ counter\ &&\ make\ a\ sound\ &&\ remove\ the\ star.\ \r\n
+numComments=6

@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Tree
+comment0.text=\r\n\ The\ tree\r\n\ \r\n\ @AMAL\ Chaouite\ &\ SANIJA\ Vlasanova\r\n\ @30.11.2019\r\n
+comment1.params=
+comment1.target=void\ act()
+comment2.params=
+comment2.target=void\ touchTree()
+comment2.text=\r\n\ Check\ the\ collision\ between\ santa\ and\ the\ tree.\ If\ there\ is\ collision,\ puts\ gift.\ \r\n
+comment3.params=
+comment3.target=boolean\ isGiftPuted()
+comment3.text=\r\n\ Get\ the\ gift\ that\ santa\ puts\ next\ to\ the\ tree\r\n
+numComments=4

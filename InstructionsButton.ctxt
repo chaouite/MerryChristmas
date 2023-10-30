@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=InstructionsButton
+comment0.text=\n\ InstructionsButton\ \n\ \n\ @AMAL\ Chaouite\ &\ SANIJA\ Vlasanova\n\ @30.11.2019\n
+comment1.params=
+comment1.target=void\ act()
+comment2.params=
+comment2.target=void\ click()
+comment2.text=\n\ When\ the\ players\ click\ on\ the\ button\ go\ to\ the\ Instructions\ world,\n\ stop\ the\ music\ of\ the\ starting\ world.\n
+numComments=3

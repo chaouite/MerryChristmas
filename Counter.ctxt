@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=Counter
+comment0.text=\r\n\ Counters\ of\ the\ number\ of\ stars\ -\ bucket\ of\ water\ -\ gift\ \r\n\ \r\n\ @AMAL\ Chaouite\ &\ SANIJA\ Vlasanova\r\n\ @30.11.2019\r\n
+comment1.params=
+comment1.target=void\ act()
+comment10.params=
+comment10.target=int\ getTotalCountGift()
+comment2.params=star
+comment2.target=Counter(Stary)
+comment2.text=\r\n\ Constructors\r\n
+comment3.params=water
+comment3.target=Counter(Water)
+comment4.params=gift
+comment4.target=Counter(Gift)
+comment5.params=amount
+comment5.target=void\ addCounterStary(int)
+comment5.text=\r\n\ Add\ amount\ to\ the\ instance\ value\r\n
+comment6.params=amount
+comment6.target=void\ addCounterWater(int)
+comment7.params=amount
+comment7.target=void\ addCounterGift(int)
+comment8.params=
+comment8.target=int\ getTotalCountStary()
+comment8.text=\r\n\ Getters\ of\ the\ instances\r\n
+comment9.params=
+comment9.target=int\ getTotalCountWater()
+numComments=11

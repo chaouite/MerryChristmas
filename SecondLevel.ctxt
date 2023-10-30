@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=SecondLevel
+comment0.text=\r\n\ The\ secound\ Level,\ Santa\ should\ put\ the\ gift\ next\ to\ the\ tree,\ and\ take\ the\ cotton\ to\ stop\ the\ bell\ from\ klinging,\ then\ eat\ the\ cookies.\r\n\ He\ shouldn't\ enter\ the\ room\ of\ the\ child\ or\ the\ parents,\ and\ he\ shouldn't\ wake\ up\ the\ dog.\r\n\ After\ all\ that\ he\ have\ to\ go\ out\ from\ the\ door.\r\n\ \r\n\ @AMAL\ Chaouite\ &\ SANIJA\ Vlasanova\r\n\ @30.11.2019\r\n
+comment1.params=
+comment1.target=SecondLevel()
+comment2.params=
+comment2.target=Cotton\ getCotton()
+comment2.text=\r\n\ Get\ the\ cotton\ used\ in\ this\ level\r\n
+comment3.params=
+comment3.target=Tree\ getTree()
+comment3.text=\r\n\ Get\ the\ tree\ used\ in\ this\ level\r\n
+comment4.params=
+comment4.target=Cookies\ getCookies()
+comment4.text=\r\n\ Get\ the\ cookies\ used\ in\ this\ level\r\n
+numComments=5

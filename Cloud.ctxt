@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Cloud
+comment0.text=\r\n\ Clouds\ help\ Santa\ to\ move\ all\ over\ the\ world\ and\ collect\ the\ stars\ and\ tha\ gift\ and\ also\ the\ bucket\ of\ water\r\n\ \r\n\ @AMAL\ Chaouite\ &\ SANIJA\ Vlasanova\r\n\ @30.11.2019\r\n
+comment1.params=
+comment1.target=Cloud()
+comment1.text=\r\n\ Act\ -\ do\ whatever\ the\ Cloud\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ movement()
+comment3.text=\r\n\ Move\ the\ clouds\ +\ managing\ the\ speed\ of\ the\ mouvement\r\n
+numComments=4

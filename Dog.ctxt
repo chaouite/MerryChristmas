@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Dog
+comment0.text=\r\n\ The\ dog\r\n\ \r\n@AMAL\ Chaouite\ &\ SANIJA\ Vlasanova\r\n\ @30.11.2019\r\n
+comment1.params=
+comment1.target=void\ act()
+comment2.params=
+comment2.target=void\ touchDog()
+comment2.text=\r\n\ Collision\ between\ the\ dog\ and\ santa.\ If\ Santa\ touch\ the\ dog\ --->\ Game\ Over\r\n
+numComments=3
